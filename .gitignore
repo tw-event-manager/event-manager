@@ -40,3 +40,5 @@ jspm_packages
 babel_cache
 
 */bundle.js
+
+*.DS_Store
